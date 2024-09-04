@@ -23,7 +23,7 @@ technologies:
   code : Java,C++
   Skills : SpringBoot , Hibernate , HTML
   Database : SQL , MongoDb 
-  misc : GIT , PostMan , Kafka , Redis
+  Tools : GIT , PostMan , Kafka , Redis
    
 ```
 ### Ready for my resume?
