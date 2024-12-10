@@ -13,7 +13,7 @@
 ### <img src="https://media.giphy.com/media/94Ow7b3tQco3HPGuXu/giphy.gif" width="50"> A little more about me...  
 
 ```yaml
-apiVersion: v21
+apiVersion: v23
 kind: Human
 
 metadata:
@@ -28,7 +28,7 @@ technologies:
 ```
 ### Ready for my resume?
 
- <a href="https://drive.google.com/file/d/1XcUt62a_bHf0j5lJBz5vdnSEGr8AIUnf/view?usp=drive_link" target="_blank"> <img src="https://media.giphy.com/media/POGZSdekmTv4MhuYaR/giphy.gif" width="55" height="55"/> </a>
+ <a href="https://drive.google.com/file/d/1OhCYVohdrrbo3iVfAgzeij2x1EcN66lL/view?usp=drivesdk" target="_blank"> <img src="https://media.giphy.com/media/POGZSdekmTv4MhuYaR/giphy.gif" width="55" height="55"/> </a>
 
 ### Connect With Me...
 
